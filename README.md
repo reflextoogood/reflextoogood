@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Welcome to Deepak Vellanki's GitHub Profile 👨‍💻
+# Welcome to my GitHub Profile 👨‍💻
 
 Hi there! I'm **Deepak Vellanki**, a passionate computer science graduate student currently pursuing my Master's at **Arizona State University** (expected graduation: May 2026). My journey in technology and programming started during my undergraduate days at **CMRIT**, and since then, I've been on an incredible learning adventure.
 
